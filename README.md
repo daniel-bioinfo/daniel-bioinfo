@@ -1,6 +1,8 @@
 ## Daniel 👋
 
 ###  Estudante de Bioinformática na Word-Aid
+
+Aprendendo a usar o R e Python
 <!--
 **daniel-bioinfo/daniel-bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
