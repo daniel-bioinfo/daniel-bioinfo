@@ -1,5 +1,6 @@
-## Hi there 👋
+## Daniel 👋
 
+###  Estudante de Bioinformática na Word-Aid
 <!--
 **daniel-bioinfo/daniel-bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
